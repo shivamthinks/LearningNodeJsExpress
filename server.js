@@ -1,4 +1,4 @@
-var port = process.env.port || 3000;
+var port = process.env.PORT || 3000;
 
 //Node.js and third party modules.
 const express = require('express');
